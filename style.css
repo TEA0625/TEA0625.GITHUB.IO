@@ -3,7 +3,7 @@ body{
     background-image: url("网页背景.png");
     background-repeat:no repeat;
     overflow: hidden;
-    background-size:auto;"
+    background-size:cover;"
 img{  
     height: auto; 
     width: auto\9;
