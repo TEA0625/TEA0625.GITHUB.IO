@@ -3,6 +3,11 @@ body{
     background-image: url("网页背景.png");
     background-repeat:no repeat;
     overflow: hidden;
-    background-size:cover;"
+    background-size:auto;"
+img{  
+    height: auto; 
+    width: auto\9;
+    width:auto;
 }
-img{height: auto; width: auto\9; width:100%;}
+}
+
